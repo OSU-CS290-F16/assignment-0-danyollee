@@ -3,7 +3,7 @@
 
 Name: Daniel
 
-ONID ID: 932702492
+ONID ID: leed3@oregonstate.edu
 
 Link to my CS 290 page: http://people.oregonstate.edu/~leed3/
 
