@@ -1,7 +1,7 @@
 # Assignment 0
 **Due at 4:59pm on Monday, 9/26/2016**
 
-Name: Daniel
+Name: Daniel Lee
 
 ONID ID: leed3@oregonstate.edu
 
